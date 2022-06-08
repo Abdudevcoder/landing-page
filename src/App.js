@@ -1,8 +1,6 @@
 import React from 'react';
 import './App.css';
 import data from './cards'
-// import ozon from './logo/ozon.webp'
-// import dns from './logo/dns.webp'
 
 function App() {
   return (

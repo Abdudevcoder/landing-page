@@ -4,6 +4,7 @@ body {
   rgb(13, 110, 213) 0%,
   rgb(95, 156, 241) 100%);
   background-repeat: no-repeat;
+  margin: 0;
   /* height: 2200px; */
 }
 
